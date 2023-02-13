@@ -3,7 +3,8 @@
     padding: 0;
 }
 
-/* our styling for the card beggins */
+/* our styling for the card starts here */
+/* your free to reuse the code */
 
 .main{
     width: 100%;
@@ -317,5 +318,6 @@
         left: 1rem;
         top: 3rem;
     }
+
 }
 
